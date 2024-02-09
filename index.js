@@ -6,7 +6,7 @@ const path = require("path");
 const fs = require("fs");
 
 // const OUTPUT_DIR = path.resolve(__dirname, "output");
-const outputPath = path.join(OUTPUT_DIR, "team.html");
+// const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 const render = require("./src/page-template.js");
 
@@ -168,3 +168,5 @@ function createTeam() {
 
 // Function to hold all of the other functions.
 // Call the function to initialize the app.
+
+    createManager()
