@@ -143,7 +143,7 @@ function createTeam() {
         } else if (answers.employeeChoice === 'Engineer') {
             createEngineer();
         } else {
-            fs.writeFileSync('./output/team.html', render(teamMembers), 'utf-8');
+            fs.writeFileSync('./team.html', render(teamMembers), 'utf-8');
     }})
 }
 

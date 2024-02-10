@@ -54,6 +54,7 @@ If you have any further questions, please don't hesitate to contact me:
 
 - Chris Kratz TA
 - [NPM](https://www.npmjs.com/)
+- [Images](https://www.pexels.com/)
 
 
 ## License
