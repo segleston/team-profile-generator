@@ -2,11 +2,11 @@
 
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-  ## Description 
+## Description 
   
-  This project is to create Node.js command-line application which will take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
+This project is to create Node.js command-line application which will take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
 
-  ## Table of Contents: 
+## Table of Contents: 
   - [Description](#Description)
   - [Installation Instructions](#Installation)
   - [Usage Information](#Usage) 
@@ -15,43 +15,47 @@
   - [Questions & Contact Info](#Questions)
   - [License](#License)
 
-  ## Installation
+## Installation
   
-  - Open vscode. 
-  - Run in integrated terminal. 
-  - Run 'node index.js'.
-  - Answer questions.
-  ![screenshot of vscode questions]()
-  - HTML file for webpage will be generated in the 'output' path.
-  ![screenshot of vscode]()
+- Open vscode. 
+- Run in integrated terminal. 
+- Run 'node index.js'.
+- Answer questions.
+  ![screenshot of vscode questions](./images/Screenshot%202024-02-10%20at%2011.00.56.png)
+
+- HTML file for webpage will be generated in the 'output' path.
+
+  ![screenshot of vscode](./images/Screenshot%202024-02-10%20at%2011.02.41.png)
+
   ![screenshot of webpage]()
-  ![screenshot of vscode showing passed tests]()
+
+  ![screenshot of vscode showing passed tests](./images/Screenshot%202024-02-10%20at%2010.58.19.png)
 
 
 
-  ## Usage
+## Usage
   
 This application is used to generate a professional team profile page by answering user prompted questions. The user can input information about the team manager, engineers, and interns. 
 
 
-  ## Test
+## Test
   
-  To test, run 'npm test' in the terminal and view results in the terminal. The application uses Jest to perform testing on functions. All tests should pass without any fails.
+To test, run 'npm test' in the terminal and view results in the terminal. The application uses Jest to perform testing on functions. All tests should pass without any fails.
 
-  ## Questions 
+## Questions 
 
-  If you have any further questions, please don't hesitate to contact me:
+If you have any further questions, please don't hesitate to contact me:
   
-  - [GitHub](https://www.github.com/segleston)
+- [GitHub](https://www.github.com/segleston)
   
-  - [Email me](mailto:sarah.c.egleston@gmail.com)
+- [Email me](mailto:sarah.c.egleston@gmail.com)
 
-  ## Credits:
+## Credits:
 
-  - Chris Kratz TA
-  - [NPM](https://www.npmjs.com/)
+- Chris Kratz TA
+- [NPM](https://www.npmjs.com/)
 
 
-  ## License
+## License
   
-  MIT
+MIT
