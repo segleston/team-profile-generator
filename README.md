@@ -23,9 +23,9 @@ This project is to create Node.js command-line application which will take in in
 - Answer questions.
   ![screenshot of vscode questions](./assets/images/Screenshot%202024-02-10%20at%2011.00.56.png)
 
-- HTML file for webpage will be generated in the 'output' path.
+- HTML file for webpage will be generated in the main folder.
 
-  ![screenshot of vscode](./assets/images/Screenshot%202024-02-10%20at%2011.02.41.png)
+  ![screenshot of vscode](./assets/images/Screenshot%202024-02-10%20at%2012.10.46.png)
 
   ![screenshot of webpage](./assets/images/Screenshot%202024-02-10%20at%2012.03.11.png)
 
