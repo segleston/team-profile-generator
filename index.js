@@ -134,7 +134,7 @@ function createTeam() {
             type: 'list',
             name: 'employeeChoice',
             message: "What team profile would you like to create?",
-            choices: ['Intern', 'Engineer', 'None']
+            choices: ['Intern', 'Engineer', 'Finish builing the team']
         },
     ]).then(answers => {
         // A condition to check which employee choice the user selected and run appropriate function
