@@ -25,6 +25,7 @@
   - HTML file for webpage will be generated in the 'output' path.
   ![screenshot of vscode]()
   ![screenshot of webpage]()
+  ![screenshot of vscode showing passed tests]()
 
 
 
