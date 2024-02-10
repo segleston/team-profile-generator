@@ -21,7 +21,7 @@ This project is to create Node.js command-line application which will take in in
 - Run in integrated terminal. 
 - Run 'node index.js'.
 - Answer questions.
-  ![screenshot of vscode questions](./images/assets/Screenshot%202024-02-10%20at%2011.00.56.png)
+  ![screenshot of vscode questions](./assets/images/Screenshot%202024-02-10%20at%2011.00.56.png)
 
 - HTML file for webpage will be generated in the 'output' path.
 
